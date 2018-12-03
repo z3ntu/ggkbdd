@@ -66,7 +66,7 @@ ModeKey=RIGHTCTRL
 [Macros]
 A=B C
 F11=H E L L O
-LEFTCTRL=+LEFTSHIFT U P P E R -LEFTSHIFT L O W ER
+LEFTCTRL=+LEFTSHIFT U P P E R -LEFTSHIFT L O W E R
 ```
 
 This example uses capslock as the mode key and maps the A key to the key
